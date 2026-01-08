@@ -1,3 +1,4 @@
+# ADK-style Agent–Tool–State implementation
 import random
 
 game_state={"round":1,"user_score":0,"bot_score":0,"user_bomb":False,"bot_bomb":False,"game_over":False}
@@ -119,3 +120,4 @@ def main():
 
 if __name__=="__main__":
     main()
+
